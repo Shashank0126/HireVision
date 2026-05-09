@@ -156,7 +156,7 @@ It can be extended toward:
 
 ## Overview
 
-HireVision ("विद्यामित्र" — meaning "Knowledge Friend") is designed to prepare candidates for technical job interviews by simulating the entire hiring process end-to-end. Unlike simple quiz apps, HireVision uses **adaptive AI interviewers** that dynamically adjust question difficulty based on candidate responses, **LangGraph state machines** for multi-turn conversational interviews, and **computer vision-based proctoring** to enforce exam integrity.
+HireVision is designed to prepare candidates for technical job interviews by simulating the entire hiring process end-to-end. Unlike simple quiz apps, HireVision uses **adaptive AI interviewers** that dynamically adjust question difficulty based on candidate responses, **LangGraph state machines** for multi-turn conversational interviews, and **computer vision-based proctoring** to enforce exam integrity.
 
 The platform covers every stage a candidate encounters in real hiring:
 
